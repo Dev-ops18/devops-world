@@ -1,2 +1,2 @@
 # devops-world
-training repo
+Reddy's training repo
